@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    background-color: ;
+}
+div ul li{
+    display: inline;
+    text-decoration: none;
+    margin-left: 150px;
+    position: relative;
+    bottom: 200px;
+}
+.logo{
+    margin-left: 0px;
+}
+.search{
+    margin-left: 1000px ;
+    margin-top:0px ;
+    bottom: 150px;
+    border-radius:10px ;
+    position: relative;
+}
+a{
+    text-decoration: none;
+}
+.heart{
+    position: relative;
+    bottom: 85px;
+    margin-left: 10px;
+}
+.cart{
+    position: relative;
+    bottom: 130px;
+    margin-left: 0px;
+}
+.cloth1{
+    max-width: 1350%;
+    width: 100%;
+}
+.flex-container{
+    display: flexbox ;
+    flex-direction:row;
+    height: 100px; 
+    padding: 10px;
+}
